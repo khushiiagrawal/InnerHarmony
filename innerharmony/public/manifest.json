@@ -1,0 +1,21 @@
+{
+  "name": "InnerHarmony",
+  "short_name": "InnerHarmony",
+  "description": "Supporting women's mental well-being through therapy and self-care",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
